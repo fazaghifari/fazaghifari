@@ -7,4 +7,4 @@
 - ⚡ Trivia: My friends call me "Kadal", I love a cup of hot tea or coffee :coffee: (Earl grey tea and manual-brewed coffee are my favs).
 - :ring: My Precious.
 
-**Cheers! Bye!**
+**Cheers!**
