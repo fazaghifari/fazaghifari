@@ -5,6 +5,6 @@
 - :biking_man: On my spare time I enjoy riding bike, running, playing games :video_game: and listen to music :musical_note:.
 - 📫 How to reach me: Poke me on [Twitter](https://twitter.com/fazaghifari) or [LinkedIn](https://www.linkedin.com/in/ghifariadamf/).
 - ⚡ Trivia: My friends call me "Kadal", I love a cup of hot tea or coffee :coffee: (Earl grey tea and manual-brewed coffee are my favs).
-- :ring: My Precious.
+- :lizard: A newt....But I got better 
 
 **Cheers!**
