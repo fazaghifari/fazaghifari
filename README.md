@@ -1,6 +1,6 @@
 ### Hello there! I'm Adam 👋
 
-- 🔭 An unemployed self-proclaimed Data Scientist and also an (unofficial) research collaborator at [Flow Diagnostics Lab ITB](https://flowdiagnostics.ftmd.itb.ac.id/)
+- 🔭 An unemployed self-proclaimed Data Scientist, an incoming pre-doctoral student at KU Leuven, and also an (unofficial) research collaborator at [Flow Diagnostics Lab ITB](https://flowdiagnostics.ftmd.itb.ac.id/)
 - :books: Currently learning about machine learning, data science, optimization, and its application towards physics and engineering.
 - :tennis: On my spare time I enjoy running, playing tennis :tennis:, hanging out with friends :coffee: and listen to music :musical_note:.
 - 📫 How to reach me: Poke me on [Twitter](https://twitter.com/adamghifarif) or [LinkedIn](https://www.linkedin.com/in/ghifariadamf/).
